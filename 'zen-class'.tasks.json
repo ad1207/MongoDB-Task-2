@@ -1,0 +1,6 @@
+{"_id":{"$oid":"627657401208d35863092df0"},"taskId":{"$numberInt":"1"},"Date":{"$date":{"$numberLong":"1631718000000"}},"CompletedBy":[{"$numberInt":"1"},{"$numberInt":"3"},{"$numberInt":"4"},{"$numberInt":"5"},{"$numberInt":"7"},{"$numberInt":"10"}]}
+{"_id":{"$oid":"6276577f1208d35863092df3"},"taskId":{"$numberInt":"2"},"Date":{"$date":{"$numberLong":"1633100400000"}},"CompletedBy":[{"$numberInt":"2"},{"$numberInt":"3"},{"$numberInt":"4"},{"$numberInt":"8"},{"$numberInt":"9"}]}
+{"_id":{"$oid":"627657a51208d35863092df6"},"taskId":{"$numberInt":"3"},"Date":{"$date":{"$numberLong":"1634223600000"}},"CompletedBy":[{"$numberInt":"1"},{"$numberInt":"3"},{"$numberInt":"7"},{"$numberInt":"10"},{"$numberInt":"5"},{"$numberInt":"8"}]}
+{"_id":{"$oid":"627657d71208d35863092df9"},"taskId":{"$numberInt":"4"},"Date":{"$date":{"$numberLong":"1635433200000"}},"CompletedBy":[{"$numberInt":"1"},{"$numberInt":"8"},{"$numberInt":"4"},{"$numberInt":"2"},{"$numberInt":"3"},{"$numberInt":"7"},{"$numberInt":"10"}]}
+{"_id":{"$oid":"627658321208d35863092dfc"},"taskId":{"$numberInt":"5"},"Date":{"$date":{"$numberLong":"1636729200000"}},"CompletedBy":[{"$numberInt":"1"},{"$numberInt":"2"},{"$numberInt":"3"},{"$numberInt":"4"},{"$numberInt":"5"},{"$numberInt":"6"},{"$numberInt":"7"},{"$numberInt":"8"},{"$numberInt":"9"}]}
+

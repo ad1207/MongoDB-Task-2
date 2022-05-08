@@ -1,0 +1,8 @@
+{"_id":{"$oid":"6276536b1208d35863092ddc"},"title":"HTML","StartDate":{"$date":{"$numberLong":"1631458800000"}},"EndDate":{"$date":{"$numberLong":"1634566230000"}},"Sessions":{"$numberInt":"5"}}
+{"_id":{"$oid":"627653921208d35863092dde"},"title":"CSS","StartDate":{"$date":{"$numberLong":"1634569200000"}},"EndDate":{"$date":{"$numberLong":"1635617430000"}},"Sessions":{"$numberInt":"5"}}
+{"_id":{"$oid":"627653ad1208d35863092de0"},"title":"JavaScript","StartDate":{"$date":{"$numberLong":"1634137200000"}},"EndDate":{"$date":{"$numberLong":"1635444630000"}},"Sessions":{"$numberInt":"8"}}
+{"_id":{"$oid":"627653d21208d35863092de2"},"title":"ReactJS","StartDate":{"$date":{"$numberLong":"1635778800000"}},"EndDate":{"$date":{"$numberLong":"1636395030000"}},"Sessions":{"$numberInt":"3"}}
+{"_id":{"$oid":"627653ea1208d35863092de4"},"title":"MySQL","StartDate":{"$date":{"$numberLong":"1636470000000"}},"EndDate":{"$date":{"$numberLong":"1636567830000"}},"Sessions":{"$numberInt":"2"}}
+{"_id":{"$oid":"627653fc1208d35863092de6"},"title":"MongoDB","StartDate":{"$date":{"$numberLong":"1636642800000"}},"EndDate":{"$date":{"$numberLong":"1636740630000"}},"Sessions":{"$numberInt":"2"}}
+{"_id":{"$oid":"627654311208d35863092de8"},"title":"NodeJS","StartDate":{"$date":{"$numberLong":"1636988400000"}},"EndDate":{"$date":{"$numberLong":"1638295830000"}},"Sessions":{"$numberInt":"6"}}
+
